@@ -1,2 +1,3 @@
 # chatbot-server
-Chatbot server in Python 3.7
+
+Chatbot socket server for Anaconda Python 3.7
